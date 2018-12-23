@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Combinatorial Optimization"
   institution = "University of Waterloo"
-  year = 2017-
+  year = ""
 
 [[education.courses]]
   course = "MMath in Combinatorics & Optimization"
