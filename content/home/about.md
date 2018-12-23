@@ -10,31 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Discrete Optimization",
+    "Algorithmic Game Theory",
+    "Polyhedral Combinatorics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Combinatorial Optimization"
+  institution = "University of Waterloo"
+  year = 2017-
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MMath in Combinatorics & Optimization"
+  institution = "University of Waterloo"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MMath in Mathematics and Computer Science"
+  institution = "University of Windsor"
+  year = 2015
  
 +++
 
 # Biography
+I'm a PhD Student in Combinatorics and Optimization under the supervision of [Jochen Koenemann](http://www.math.uwaterloo.ca/~jochen/)
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Succintly, I enjoy studying problems arising at the intersection of combinatorial optimization and game theory from a polyhedral perspective.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
