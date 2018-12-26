@@ -4,7 +4,7 @@ date = 2018-12-25T22:00:23Z
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [""]
+authors = ["Justin Toth"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = [""]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Masters Thesis"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "In this thesis we provide two contributions to the study of structure in stable matching problems. The first contribution is a short new proof for the integrality of Rothblum’s linear description of the convex hull of incidence vectors of stable matchings in bipartite graphs. The key feature of our proof is to show that extreme points of the formulation must have a 0, 1-component. The second contribution is a computer search procedure for instances of cyclic stable matching problems with three genders as proposed by Knuth. We provide sufficient conditions for the existence of a stable matching in this context. We also investigate bijections of the problem instance vertex set to itself which preserve the set of stable matchings (up to permutation). Such bijections define “symmetric” problem instances. We study this notion of symmetry, and use it to cut down on the number of problem instances in our search. We implemented our proposed computational procedure in Java and end with a discussion of the results running computational experiments using our code on problem instances of size 5."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://uwspace.uwaterloo.ca/handle/10012/11099"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
