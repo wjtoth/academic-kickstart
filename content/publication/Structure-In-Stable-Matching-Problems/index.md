@@ -1,6 +1,6 @@
 +++
 title = "Structure in Stable Matching Problems"
-date = 2018-12-25T22:00:23Z
+date = 2016-12-25T22:00:23Z
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

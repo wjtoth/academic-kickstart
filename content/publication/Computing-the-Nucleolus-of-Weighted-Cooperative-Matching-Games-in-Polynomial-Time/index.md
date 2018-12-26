@@ -22,9 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We provide an efficient algorithm for computing the nucleolus for an instance of a weighted
-cooperative matching game. This resolves a long-standing open question of [Kern and Paulusma,
-Mathematics of Operations Research, 2003]."
+abstract = "We provide an efficient algorithm for computing the nucleolus for an instance of a weighted cooperative matching game. This resolves a long-standing open question of Kern and Paulusma, circa Mathematics of Operations Research, 2003."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
