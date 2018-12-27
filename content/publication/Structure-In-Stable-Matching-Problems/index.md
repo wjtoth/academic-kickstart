@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Stable Matching", "Polytope"]
 
 # Links (optional).
 url_pdf = "https://uwspace.uwaterloo.ca/handle/10012/11099"
