@@ -46,7 +46,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = [game theory, matchings, polytope]
+tags = ["game theory", "matchings", "polytope"]
 
 # Links (optional).
 url_pdf = ""
