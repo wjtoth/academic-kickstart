@@ -314,10 +314,14 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
+#[[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
+
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+   name = "CombOpt Reading Group"
+   url = "/comboptreading/
 
 [[menu.main]]
   name = "Contact"
