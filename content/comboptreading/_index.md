@@ -13,16 +13,11 @@ type = "docs"  # Do not modify.
   name = "Overview"
   weight = 1
 +++
+The purpose of our reading group is for students to learn new things, gain practice presenting research to their peers, and possible pick up a research question or two in the process.
 
-This feature can be used for publishing content such as:
+Each semester we have a new topic of combinatorial optimization.
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
+**When:** Fridays, 1:00pm - 3:00pm
+**Where:** MC 5479
 
-The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
-
-To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
-
-After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
-
+To stay up to date please subscribe to our [mailing list](https://lists.uwaterloo.ca/mailman/listinfo/comboptreading). Please do not hesitate to contact Justin Toth or Sharat Ibrahimpur if you have any questions or suggestions.
