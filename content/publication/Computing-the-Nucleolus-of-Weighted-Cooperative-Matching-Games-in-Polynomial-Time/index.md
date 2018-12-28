@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = [{name = "ISMP 2018", url = "https://wjtoth.files.wordpress.com/2018/07/ismp2018-nucleolusmatching.pdf"}, {name = "FND 2018 Lightning Talk", url = "https://wjtoth.files.wordpress.com/2018/05/fnd2018-nucleolusmatching.pdf"}]
+ url_custom = [{name = "ISMP 2018 Talk", url = "https://wjtoth.files.wordpress.com/2018/07/ismp2018-nucleolusmatching.pdf"}, {name = "FND 2018 Lightning Talk", url = "https://wjtoth.files.wordpress.com/2018/05/fnd2018-nucleolusmatching.pdf"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

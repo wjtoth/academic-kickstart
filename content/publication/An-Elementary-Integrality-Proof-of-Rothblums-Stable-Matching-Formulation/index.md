@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "Ottawa Mathematics Conference 2016", url = "https://drive.google.com/open?id=0B7Vqc_C-iJ77RXg3MXE4aE9QdzA"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
