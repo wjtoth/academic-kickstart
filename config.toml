@@ -321,7 +321,7 @@ enableGitInfo = false
 
 [[menu.main]]
    name = "CombOpt Reading Group"
-   url = "/comboptreading/
+   url = "/comboptreading/"
 
 [[menu.main]]
   name = "Contact"
