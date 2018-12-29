@@ -13,7 +13,7 @@ type = "docs"  # Do not modify.
   name = "Overview"
   weight = 1
 +++
-The purpose of our reading group is for students to learn new things, gain practice presenting research to their peers, and possible pick up a research question or two in the process.
+The purpose of our reading group is for students to learn new things, gain practice presenting research to their peers, and possibly pick up a research question or two in the process.
 
 Each semester we have a new topic of combinatorial optimization.
 
