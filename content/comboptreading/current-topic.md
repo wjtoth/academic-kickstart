@@ -15,6 +15,7 @@ linktitle = "Clustering"
   weight = 1
 +++
 
-|Date         |Location |Presenter       |Topic |
-|-----------------------------------------|
-|Oct 12, 2018 |MC 5479  |Chaitanya Swamy | Overview and LP rounding for uncapacitated facility location.| 
+1. Oct 12th, 2018: _Overview and LP rounding for uncapacitated facility location_ - **Chaitanya Swamy**
+2. Oct 19th, 2018: _Primal Dual for facility location, Lagrangian relxation technique for k-median_ - **Hao Sun**
+3. Oct 26th, 2018: _Local Search for uncapacitated facility location, capacitated facility location, k-median_ - **Zishen Qu**
+4. Nov 2nd, 2018: _"Approximating k-Median via Pseudo-Approximation"_ (Shi Li and Ola Svensson, 2013) - **Sharat Ibrahimpu**
