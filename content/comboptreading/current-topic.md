@@ -15,7 +15,13 @@ linktitle = "Clustering"
   weight = 1
 +++
 
-1. Oct 12th, 2018: _Overview and LP rounding for uncapacitated facility location_ - **Chaitanya Swamy**
-2. Oct 19th, 2018: _Primal Dual for facility location, Lagrangian relxation technique for k-median_ - **Hao Sun**
-3. Oct 26th, 2018: _Local Search for uncapacitated facility location, capacitated facility location, k-median_ - **Zishen Qu**
-4. Nov 2nd, 2018: _"Approximating k-Median via Pseudo-Approximation"_ (Shi Li and Ola Svensson, 2013) - **Sharat Ibrahimpu**
+| Date         | Location    | Topic                                                                                                               | Presenter          |
+|--------------|-------------|---------------------------------------------------------------------------------------------------------------------|--------------------|
+| Oct 12, 2018 | MC 5479     | Overview and LP rounding for uncapacitated facility location                                                        | Chaitanya Swamy    |
+| Oct 19, 2018 | MC 5479     | Primal dual for facility location, Lagrangian relaxation technique for k-median                                     | Hao Sun            |
+| Oct 26, 2018 | MC 5479     | Local search for uncapacitated facility location, capacitated facility location, k-median                           | Zishen Qu          |
+| Nov 2, 2018  | MC 5479     | "Approximating k-Median via Pseudo-Approximation" (2013) _by Shi Li and Ola Svensson_                               | Sharat Ibrahimpur  |
+| Nov 9, 2018  | **MC 5417** | "Approximate Clustering without the Approximation" (2009) _by Maria-Florina Balcan, Avrim Blum and Anupam Gupta_    | Thomas Baxter      |
+| Nov 16, 2018 | MC 5479     | "Stability Yields a PTAS for k-Median and k-Means Clustering" (2010) _by Pranjal Awasthi, Avrim Blum and Or Sheffet | Adam Brown         |
+| Nov 23, 2018 | MC 5479     | "On the Local Structure of Stable Clustering Instances" (2017) _by Vincent Cohen-Addad and Chris Schwiegelshohn_    | Akshay Ramachadran |
+| Nov 30, 2018 | MC 5479     | Ordered k-median                                                                                                    | Sharat Ibrahimpur  |
