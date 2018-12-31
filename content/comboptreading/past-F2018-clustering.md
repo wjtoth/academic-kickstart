@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 linktitle = "Clustering"
 [menu.comboptreading]
   parent = "Past Topics"
-  weight = 1
+  weight = 5
 +++
 
 | Date         | Location    | Topic                                                                                                               | Presenter          |
