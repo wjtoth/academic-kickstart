@@ -34,7 +34,9 @@ weight = 5
 +++
 
 # Biography
-I'm a PhD Student in Combinatorics and Optimization under the supervision of [Jochen Koenemann](http://www.math.uwaterloo.ca/~jochen/)
+I'm a PhD Student in Combinatorics and Optimization under the supervision of [Jochen Koenemann](http://www.math.uwaterloo.ca/~jochen/).
 
-Succintly, I enjoy studying problems arising at the intersection of combinatorial optimization and game theory from a polyhedral perspective.
+My current research interest is in problems arising at the intersection of combinatorial optimization and game theory. In the past I've worked on polyhedral descriptions of stable matching, and on efficient computation of solution concepts for combinatorial cooperative games.
+
+**Collaborators:** [Jochen Koenemann](http://www.math.uwaterloo.ca/~jochen/), and [Kanstantsin Pashkovich](https://kanstantsinpashkovich.bitbucket.io)
 
