@@ -36,7 +36,7 @@ weight = 5
 # Biography
 I'm a PhD Student in Combinatorics and Optimization under the supervision of [Jochen Koenemann](http://www.math.uwaterloo.ca/~jochen/).
 
-With [Sharat Ibrahimpur](https://uwaterloo.ca/combinatorics-and-optimization/about/people/s26ibrah) I organize the [Combinatorial Optimization Reading Group](https://wjtoth.netlify.com/comboptreading/) at the University of Waterloo.
+With [Sharat Ibrahimpur](https://uwaterloo.ca/combinatorics-and-optimization/about/people/s26ibrah) I organize the [Combinatorial Optimization Reading Group](https://www.wjtoth.com/comboptreading/) at the University of Waterloo.
 
 My current research interests are in problems arising at the intersection of combinatorial optimization and game theory. In the past I've worked on polyhedral descriptions of stable matching, and on efficient computation of solution concepts for combinatorial cooperative games.
 
