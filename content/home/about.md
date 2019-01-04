@@ -27,7 +27,7 @@ weight = 5
   year = 2016
 
 [[education.courses]]
-  course = "MMath in Mathematics and Computer Science"
+  course = "BMath in Mathematics and Computer Science"
   institution = "University of Windsor"
   year = 2015
  
