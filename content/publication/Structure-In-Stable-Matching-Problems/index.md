@@ -61,7 +61,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "3 Minute Thesis 2018", url = "https://drive.google.com/open?id=0B7Vqc_C-iJ77RXg3MXE4aE9QdzA"}]
+url_custom = [{name = "3 Minute Thesis 2018", url = "https://drive.google.com/file/d/0B7Vqc_C-iJ77TmtPcVNDNlZHQmM/view?usp=drive_open"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
