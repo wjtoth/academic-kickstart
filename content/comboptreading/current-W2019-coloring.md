@@ -21,7 +21,7 @@ Ben will also give our *first talk*, an overview of the area, on **January 18th.
 
 The suggested papers are available below. If you would like to present one of the unclaimed papers, or suggest a paper to present, please get in touch with one of the organizers.
 
-The first talk will
+
 __Group A: Coloring in minor closed classes__ *(these papers require some expertize in graph minors theory)*
 
 1. _*To be claimed*_ 'Additive non-approximability of chromatic number in proper minor-closed classes' by Dvorak and Kawarabayashi.
