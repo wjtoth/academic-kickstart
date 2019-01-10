@@ -17,7 +17,7 @@ The purpose of our reading group is for students to learn new things, gain pract
 
 Each semester we have a new topic of combinatorial optimization.
 
-**When:** Fridays, 1:00pm - 3:00pm
+**When:** Fridays, 1:00pm - 2:30pm
 **Where:** MC 5479
 
 To stay up to date please subscribe to our [mailing list](https://lists.uwaterloo.ca/mailman/listinfo/comboptreading). Please do not hesitate to contact Justin Toth or Sharat Ibrahimpur if you have any questions or suggestions.
