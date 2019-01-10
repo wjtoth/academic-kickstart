@@ -27,9 +27,9 @@ __Group A: Coloring in minor closed classes__ *(these papers require some expert
 1. _*Ben Moore*_ 'Additive non-approximability of chromatic number in proper minor-closed classes' by Dvorak and Kawarabayashi.
 https://arxiv.org/pdf/1707.03888.pdf 
 
-2. _*To be claimed*_ An additive t+3 approximation of the chromatic number for minor-closed classes that avoid a fixed t-apex graph as a minor. See Theorem 5 from the work of Dvorak and Kawarabayashi mentioned above. 
+2. _*Justin Toth*_ An additive t+3 approximation of the chromatic number for minor-closed classes that avoid a fixed t-apex graph as a minor. See Theorem 5 from the work of Dvorak and Kawarabayashi mentioned above. 
 
-3. _*To be claimed*_ A 2-approximation for the chromatic number in minor closed classes. Based on the work of Demaine, Hajiaghayi, and Kawarabayashi in the paper titled 'Algorithmic Graph Minor Theory: Decomposition, Approximation, and Coloring'. 
+3. _*Rose McCarty*_ A 2-approximation for the chromatic number in minor closed classes. Based on the work of Demaine, Hajiaghayi, and Kawarabayashi in the paper titled 'Algorithmic Graph Minor Theory: Decomposition, Approximation, and Coloring'. 
 http://erikdemaine.org/papers/Decomposition_FOCS2005/paper.pdf 
 
 __Group B: Coloring in general graphs__
