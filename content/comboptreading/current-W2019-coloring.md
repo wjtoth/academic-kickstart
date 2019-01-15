@@ -32,6 +32,9 @@ https://arxiv.org/pdf/1707.03888.pdf
 3. _*Rose McCarty*_ A 2-approximation for the chromatic number in minor closed classes. Based on the work of Demaine, Hajiaghayi, and Kawarabayashi in the paper titled 'Algorithmic Graph Minor Theory: Decomposition, Approximation, and Coloring'. 
 http://erikdemaine.org/papers/Decomposition_FOCS2005/paper.pdf 
 
+4. _*To be claimed*_ 'Polynomial bounds for centered colorings on proper minor-closed graph classes' by Pilipczuk and Siebertz.
+https://arxiv.org/abs/1807.03683
+
 __Group B: Coloring in general graphs__
 
 1. _*To be claimed*_ Hardness of coloring. See 'On the hardness of 4-coloring a 3-colorable graph' by Guruswami and Khanna, and 'On the hardness of approximating the chromatic number' by Khanna, Linial, and Safra.
