@@ -40,6 +40,14 @@ __Group B: Coloring in general graphs__
 
 __Group C: Other interesting results on coloring.__
 
+| Date           | Topic                                                                                                                                                                                                                    | Presenter         |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Mar 8th, 2019  | ['Cliquewidth III: The Odd Case of Graph Coloring Parameterized by Cliquewidth'](https://www.ii.uib.no/~daniello/papers/cliquewidth3SODA18.pdf) by Petr A. Golovach, Daniel Lokshtanov, Saket Saurabh, and Meirav Zehavi | Rose McCarty      |
+| Mar 15th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                   | _*To Be Claimed*_ |
+| Mar 22nd, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                   | _*To Be Claimed*_ |
+| Mar 29th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                   | _*To Be Claimed*_ |
+| Apr 5th, 2019  | _*Choose from list below, or suggest*_                                                                                                                                                                                   | _*To Be Claimed*_ |
+
 1. _*To be claimed*_ 'NP-Hardness of Coloring 2-Colorable Hypergraph with Poly-Logarithmically Many Colors' by Amey Bhangale. 
 http://drops.dagstuhl.de/opus/volltexte/2018/9019/pdf/LIPIcs-ICALP-2018-15.pdf
 
