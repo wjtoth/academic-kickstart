@@ -36,7 +36,7 @@ __Group B: Coloring in general graphs__
 |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 | Feb 8th, 2019  | ‘Coloring 3-colorable graphs with o(n^1⁄5) colors’ by Kawarabayashi and Thorup. First talk covers combinatorial techniques used in this paper.   http://drops.dagstuhl.de/opus/volltexte/2014/4479/pdf/37.pdf                                           | Thomas Kelly      |
 | Feb 15th, 2019 | Second talk (on the above paper) covers the semi-definite programming approaches.                                                                                                                                                                       | Sharat Ibrahimpur |
-| Feb 22nd, 2019 | ‘On the hardness of 4-coloring a 3-colorable graph’ by Guruswami and Khanna, and ‘On the hardness of approximating the chromatic number’ by Khanna, Linial, and Safra.https:  https://doi.org/10.1137/S0895480100376794 https://doi.org/10.1007/s004930070013 | _*To Be Claimed*_ |
+| Feb 22nd, 2019 | ‘On the hardness of 4-coloring a 3-colorable graph’ by Guruswami and Khanna, and ‘On the hardness of approximating the chromatic number’ by Khanna, Linial, and Safra.  https://doi.org/10.1137/S0895480100376794 https://doi.org/10.1007/s004930070013 | _*To Be Claimed*_ |
 
 __Group C: Other interesting results on coloring.__
 
