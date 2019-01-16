@@ -22,7 +22,7 @@ Ben will also give our *first talk*, an overview of the area and the first resul
 The suggested papers are available below. If you would like to present one of the unclaimed papers, or suggest a paper to present, please get in touch with one of the organizers.
 
 
-__Group A: Coloring in minor closed classes__ *(these papers require some expertize in graph minors theory)*
+__Group A: Coloring in minor closed classes__ *(these papers require some expertise in graph minors theory)*
 
 | Date           | Topic                                                                                                                                                                                                                                                                                              | Presenter    |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
@@ -32,15 +32,11 @@ __Group A: Coloring in minor closed classes__ *(these papers require some expert
 
 __Group B: Coloring in general graphs__
 
-1. _*To be claimed*_ Hardness of coloring. See 'On the hardness of 4-coloring a 3-colorable graph' by Guruswami and Khanna, and 'On the hardness of approximating the chromatic number' by Khanna, Linial, and Safra.
-https://doi.org/10.1137/S0895480100376794
-https://doi.org/10.1007/s004930070013
-
-2. _*To be claimed*_ 'Coloring 3-colorable graphs with o(n^1/5) colors' by Kawarabayashi and Thorup. 
-First talk covers combinatorial techniques used in this paper.
-http://drops.dagstuhl.de/opus/volltexte/2014/4479/pdf/37.pdf 
-
-3. _*To be claimed*_ Second talk (on the above paper) covers the semi-definite programming approaches.
+| Date           | Topic                                                                                                                                                                                                                                                   | Presenter         |
+|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| Feb 8th, 2019  | ‘Coloring 3-colorable graphs with o(n^1⁄5) colors’ by Kawarabayashi and Thorup. First talk covers combinatorial techniques used in this paper.   http://drops.dagstuhl.de/opus/volltexte/2014/4479/pdf/37.pdf                                           | Thomas Kelly      |
+| Feb 15th, 2019 | Second talk (on the above paper) covers the semi-definite programming approaches.                                                                                                                                                                       | Sharat Ibrahimpur |
+| Feb 22nd, 2019 | ‘On the hardness of 4-coloring a 3-colorable graph’ by Guruswami and Khanna, and ‘On the hardness of approximating the chromatic number’ by Khanna, Linial, and Safra.https:  //doi.org/10.1137/S0895480100376794 https://doi.org/10.1007/s004930070013 | _*To Be Claimed*_ |
 
 __Group C: Other interesting results on coloring.__
 
