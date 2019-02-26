@@ -43,12 +43,13 @@ __Group C: Other interesting results on coloring.__
 | Date           | Topic                                                                                                                                                                                                                    | Presenter         |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 | Mar 1st, 2019  | Courcelle's Theorem: Fixed parameter linear problems with respect to tree-width. From ['The monadic second-order logic of graphs. I. Recognizable sets of finite graphs'](https://www.sciencedirect.com/science/article/pii/089054019090043H) by Bruno Courcelle | Rose McCarty      |
-| Mar 15th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                 | Joshua Nevin |
+| Mar 15th, 2019 | 'NP-Hardness of Coloring 2-Colorable Hypergraph with Poly-Logarithmically Many Colors' by Amey Bhangale. 
+http://drops.dagstuhl.de/opus/volltexte/2018/9019/pdf/LIPIcs-ICALP-2018-15.pdf                                                                                                                                                                                                                                 | Joshua Nevin |
 | Mar 22nd, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                 | _*To Be Claimed*_ |
 | Mar 29th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                 | _*To Be Claimed*_ |
 | Apr 5th, 2019  | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                 | _*To Be Claimed*_ |
 
-1. _*To be claimed*_ 'NP-Hardness of Coloring 2-Colorable Hypergraph with Poly-Logarithmically Many Colors' by Amey Bhangale. 
+1. **Claimed** 'NP-Hardness of Coloring 2-Colorable Hypergraph with Poly-Logarithmically Many Colors' by Amey Bhangale. 
 http://drops.dagstuhl.de/opus/volltexte/2018/9019/pdf/LIPIcs-ICALP-2018-15.pdf
 
 2. _*To be claimed*_ 'Linear Degree Extractors and the Inapproximability of Max Clique and Chromatic Number' by David Zuckerman.
