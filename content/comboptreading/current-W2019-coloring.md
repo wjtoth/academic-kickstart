@@ -11,8 +11,8 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 linktitle = "Approximate Graph Coloring"
 [menu.comboptreading]
-  parent = "Current Topic"
-  weight = 1
+  parent = "Past Topics"
+  weight = 7
 +++
 This term our reading group studies approximations for the chromatic number of a graph. 
 This topic was suggested by **Ben Moore**. Thank you Ben for contributing the topic and suggested list of papers!
