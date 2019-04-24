@@ -4,7 +4,7 @@ title = "Stable Matching"
 date = 2019-01-01T00:00:00
 # lastmod = 2018-09-09T00:00:00
 
-draft = true  # Is this a draft? true/false
+draft = false  # Is this a draft? true/false
 toc = false  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
@@ -40,15 +40,35 @@ __Schedule__
 | Aug 02nd, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
 | Aug 09th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
 
-1. **Claimed** 'NP-Hardness of Coloring 2-Colorable Hypergraphs with Poly-Logarithmically Many Colors' by Amey Bhangale. 
-http://drops.dagstuhl.de/opus/volltexte/2018/9019/pdf/LIPIcs-ICALP-2018-15.pdf
+__Suggested Papers__
 
-2. _*To be claimed*_ 'Linear Degree Extractors and the Inapproximability of Max Clique and Chromatic Number' by David Zuckerman.
-http://www.theoryofcomputing.org/articles/v003a006/v003a006.pdf
+1. _*To be claimed*_ [A Fixed-Point Approach to Stable Matchings and Some Applications](http://bolyai.cs.elte.hu/egres/tr/egres-01-01.pdf) by Tamas Fleiner.
 
-3. _*To be claimed*_ 'Rapid mixing of Glauber dynamics for colorings below Vigoda’s 11/6 threshold' by Delcourt, Perarnau, and Postle.
-https://arxiv.org/pdf/1804.04025.pdf
-(This result was presented by Michelle Delcourt at the Tutte Colloquium on 14th September 2018)
+2. _*To be claimed*_ [Pairwise Preferences in the Stable Marriage Problem](https://arxiv.org/pdf/1810.00392.pdf) by Agnes Cseh and Attila Juhos.
 
-4. _*To be claimed*_ 'Polynomial bounds for centered colorings on proper minor-closed graph classes' by Pilipczuk and Siebertz.
-https://arxiv.org/abs/1807.03683
+3. _*To be claimed*_ [Popular Matchings](https://epubs.siam.org/doi/pdf/10.1137/06067328X) by David Abraham, Robert Irving, Telikepalli Kavitha, and Kurt Melhorn.
+
+4. _*To be claimed*_ [Popularity, Mixed Matchings, and Self-Duality](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974782.151) by Chien-Chung Huang and Telikepalli Kavitha.
+
+5. _*To be claimed*_ [Popular Matchigns in the Stable Marriage Problem](https://link.springer.com/chapter/10.1007%2F978-3-642-22006-7_56) by Chien-Chung Huang and Telikepalli Kavitha.
+
+6. _*To be claimed*_ [Popular Matchings and Limits to Tractability](https://arxiv.org/pdf/1805.11473.pdf) by Yuri Faenza, Telikepalli Kavitha, Vladlena Powers, and Xingyu Zhang.
+
+7. _*To be claimed*_ [Quasi-Popular Matchings, Optimality, and Extended Formulations(https://arxiv.org/pdf/1904.05974.pdf) by Yuri Faenza and Telikepalli Kavitha.
+
+8. _*To be claimed*_ [Three-dimensional stable matching with cyclic preferences](http://dx.doi.org/10.1016/j.mathsocsci.2006.03.005) by Kimo Eriksson, Jonas Sjostrand, and Pontus Strimling.
+
+9. _*To be claimed*_ [Three-sided stable matchings with cyclic preferences](http://dx.doi.org/10.1007/s00453-009-9315-2) by Peter Biro and Eric McDermid
+
+10. _*To be claimed*_ [Stable Marriage with General Preferences](https://arxiv.org/pdf/1407.1853.pdf) by Linda Farczadi, Konstantinos Georgiou, and Jochen Koenemann.
+
+11. _*To be claimed*_ [Better and Simpler Approximation Algorithms for the Stable Marriage Problem](https://link.springer.com/article/10.1007/s00453-009-9371-7) by Zoltan Kiraly.
+
+12. _*To be claimed*_ [On Stable Matchings and Flows](https://link.springer.com/chapter/10.1007/978-3-642-16926-7_7) by Tamas Fleiner.
+
+13. _*To be claimed*_ [New and Simple Algorithms for Stable Flow Problems](https://arxiv.org/pdf/1309.3701.pdf) by Agnes Cseh and Jannik Matuschke.
+
+14. _*To be claimed*_ [Finding Stable that are Robust to Errors in the Input](https://arxiv.org/pdf/1804.00553.pdf) by Tung Mai and Vijay Vazirani.
+
+15. _*To be claimed*_ [Stable Matchings, Robust Solutions, and Distributive Lattices](https://arxiv.org/pdf/1804.05537.pdf) by Tung Mai and Vijay Vazirani.
+
