@@ -51,7 +51,7 @@ __Suggested Papers__
 
 4. _*To be claimed*_ [Popularity, Mixed Matchings, and Self-Duality](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974782.151) by Chien-Chung Huang and Telikepalli Kavitha.
 
-5. _*To be claimed*_ [Popular Matchigns in the Stable Marriage Problem](https://link.springer.com/chapter/10.1007%2F978-3-642-22006-7_56) by Chien-Chung Huang and Telikepalli Kavitha.
+5. _*To be claimed*_ [Popular Matchings in the Stable Marriage Problem](https://link.springer.com/chapter/10.1007%2F978-3-642-22006-7_56) by Chien-Chung Huang and Telikepalli Kavitha.
 
 6. _*To be claimed*_ [Popular Matchings and Limits to Tractability](https://arxiv.org/pdf/1805.11473.pdf) by Yuri Faenza, Telikepalli Kavitha, Vladlena Powers, and Xingyu Zhang.
 
