@@ -69,7 +69,7 @@ __Suggested Papers__
 
 13. _*To be claimed*_ [New and Simple Algorithms for Stable Flow Problems](https://arxiv.org/pdf/1309.3701.pdf) by Agnes Cseh and Jannik Matuschke.
 
-14. _*To be claimed*_ [Finding Stable that are Robust to Errors in the Input](https://arxiv.org/pdf/1804.00553.pdf) by Tung Mai and Vijay Vazirani.
+14. _*To be claimed*_ [Finding Stable Matchings that are Robust to Errors in the Input](https://arxiv.org/pdf/1804.00553.pdf) by Tung Mai and Vijay Vazirani.
 
 15. _*To be claimed*_ [Stable Matchings, Robust Solutions, and Distributive Lattices](https://arxiv.org/pdf/1804.05537.pdf) by Tung Mai and Vijay Vazirani.
 
