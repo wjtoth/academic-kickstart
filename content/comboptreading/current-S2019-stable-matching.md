@@ -16,6 +16,7 @@ linktitle = "Stable Matching"
 +++
 This term our reading group studies Matching under Preferences.
 In the words of [Egres Open](http://lemon.cs.elte.hu/egres/open/Stable_matchings_and_kernels)
+
 > From the viewpoint of combinatorial optimization, stable matching problems are interesting because there are many beautiful algorithmic and structural results, yet these do not seem to fit into the usual framework of flows and matchings. The field is quite active and generalizations have been achieved in several directions, but a unified understanding of the results is still missing. 
 
 The suggested papers are available below the schedule. If you would like to present one of the unclaimed papers, or suggest a paper to present, please get in touch with one of the organizers.
