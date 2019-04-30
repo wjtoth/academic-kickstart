@@ -27,9 +27,9 @@ __Schedule__
 | Date           | Topic                                                                                                                                                                                                                                                                                              | Presenter         |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 | May 10th, 2019 | Overview Talk **One Time Room Change:  MC 5417**                                                                                                                                                                                                                                                   | Justin Toth       | 
-| May 17th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
-| May 24th, 2019 | _*No Talks on account of [IPCO 2019](http://umich.edu/~ipco2019conf/)*_                                                                                                                                                                                                                            | _*IPCO*_          |
-| May 31st, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
+| May 17th, 2019 | [A Fixed-Point Approach to Stable Matchings and Some Applications](http://bolyai.cs.elte.hu/egres/tr/egres-01-01.pdf) by Tamas Fleiner.                                                                                                                                                             | Cedric Koh        |
+| May 24th, 2019 | _*No Talks on account of [IPCO 2019](http://umich.edu/~ipco2019conf/)*_                                                                                                                                                                                                                             | _*IPCO*_          |
+| May 31st, 2019 |[Popular Matchings](https://epubs.siam.org/doi/pdf/10.1137/06067328X) by David Abraham, Robert Irving, Telikepalli Kavitha, and Kurt Melhorn                                                                                                                                                     |Lily Wang          |
 | Jun 07th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
 | Jun 14th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
 | Jun 21st, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
@@ -43,11 +43,11 @@ __Schedule__
 
 __Suggested Papers__
 
-1. _*To be claimed*_ [A Fixed-Point Approach to Stable Matchings and Some Applications](http://bolyai.cs.elte.hu/egres/tr/egres-01-01.pdf) by Tamas Fleiner.
+1. **Claimed** [A Fixed-Point Approach to Stable Matchings and Some Applications](http://bolyai.cs.elte.hu/egres/tr/egres-01-01.pdf) by Tamas Fleiner.
 
 2. _*To be claimed*_ [Pairwise Preferences in the Stable Marriage Problem](https://arxiv.org/pdf/1810.00392.pdf) by Agnes Cseh and Attila Juhos.
 
-3. _*To be claimed*_ [Popular Matchings](https://epubs.siam.org/doi/pdf/10.1137/06067328X) by David Abraham, Robert Irving, Telikepalli Kavitha, and Kurt Melhorn.
+3. **Claimed** [Popular Matchings](https://epubs.siam.org/doi/pdf/10.1137/06067328X) by David Abraham, Robert Irving, Telikepalli Kavitha, and Kurt Melhorn.
 
 4. _*To be claimed*_ [Popularity, Mixed Matchings, and Self-Duality](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974782.151) by Chien-Chung Huang and Telikepalli Kavitha.
 
