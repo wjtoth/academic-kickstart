@@ -55,7 +55,7 @@ __Suggested Papers__
 
 6. _*To be claimed*_ [Popular Matchings and Limits to Tractability](https://arxiv.org/pdf/1805.11473.pdf) by Yuri Faenza, Telikepalli Kavitha, Vladlena Powers, and Xingyu Zhang.
 
-7. _*To be claimed*_ [Quasi-Popular Matchings, Optimality, and Extended Formulations](https://arxiv.org/pdf/1904.05974.pdf) by Yuri Faenza and Telikepalli Kavitha.
+7. **Claimed** [Quasi-Popular Matchings, Optimality, and Extended Formulations](https://arxiv.org/pdf/1904.05974.pdf) by Yuri Faenza and Telikepalli Kavitha.
 
 8. _*To be claimed*_ [Three-dimensional stable matching with cyclic preferences](http://dx.doi.org/10.1016/j.mathsocsci.2006.03.005) by Kimo Eriksson, Jonas Sjostrand, and Pontus Strimling.
 
@@ -72,4 +72,6 @@ __Suggested Papers__
 14. _*To be claimed*_ [Finding Stable Matchings that are Robust to Errors in the Input](https://arxiv.org/pdf/1804.00553.pdf) by Tung Mai and Vijay Vazirani.
 
 15. _*To be claimed*_ [Stable Matchings, Robust Solutions, and Distributive Lattices](https://arxiv.org/pdf/1804.05537.pdf) by Tung Mai and Vijay Vazirani.
+
+16. **Claimed** [A (1 + 1/e)-Approximation Algorithm for Maximum Stable Matching with One-Sided Ties and Incomplete Lists(https://epubs.siam.org/doi/10.1137/1.9781611975482.175) 
 
