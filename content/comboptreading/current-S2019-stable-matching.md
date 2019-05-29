@@ -32,7 +32,7 @@ __Schedule__
 |  May 31st, 2019 | [A Fixed-Point Approach to Stable Matchings and Some Applications](http://bolyai.cs.elte.hu/egres/tr/egres-01-01.pdf) by Tamas Fleiner. **Independent of previous talk**                                                                                                                     | Akshay Ramachandran |
 |  Jun 07th, 2019 |[Popular Matchings](https://epubs.siam.org/doi/pdf/10.1137/06067328X) by David Abraham, Robert Irving, Telikepalli Kavitha, and Kurt Melhorn                                                                                                                                                     |Lily Wang          |
 | Jun 14th, 2019 | [Popularity, Mixed Matchings, and Self-Duality](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974782.151) by Chien-Chung Huang and Telikepalli Kavitha.                                                                                                                                           | Adam Brown        |
-| Jun 21st, 2019 | _*TBD*_                                                                                                                                                                                                                                                                                             | Ishan Bansal      |
+| Jun 21st, 2019 | [Popular Matchings in the Stable Marriage Problem](https://link.springer.com/chapter/10.1007%2F978-3-642-22006-7_56) by Chien-Chung Huang and Telikepalli Kavitha.                                                                                                                                                                                                                                                                         | Ishan Bansal      |
 | Jun 28th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
 | Jul 05th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
 | Jul 12th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
@@ -51,7 +51,7 @@ __Suggested Papers__
 
 4. **Claimed** [Popularity, Mixed Matchings, and Self-Duality](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974782.151) by Chien-Chung Huang and Telikepalli Kavitha.
 
-5. _*To be claimed*_ [Popular Matchings in the Stable Marriage Problem](https://link.springer.com/chapter/10.1007%2F978-3-642-22006-7_56) by Chien-Chung Huang and Telikepalli Kavitha.
+5. **Claimed** [Popular Matchings in the Stable Marriage Problem](https://link.springer.com/chapter/10.1007%2F978-3-642-22006-7_56) by Chien-Chung Huang and Telikepalli Kavitha.
 
 6. _*To be claimed*_ [Popular Matchings and Limits to Tractability](https://arxiv.org/pdf/1805.11473.pdf) by Yuri Faenza, Telikepalli Kavitha, Vladlena Powers, and Xingyu Zhang.
 
