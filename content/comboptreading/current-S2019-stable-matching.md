@@ -36,8 +36,8 @@ __Schedule__
 | Jun 28th, 2019 | [Better and Simpler Approximation Algorithms for the Stable Marriage Problem](https://link.springer.com/article/10.1007/s00453-009-9371-7) by Zoltan Kiraly.                                                                                                                                                                                                                                       | Madison Van Dyk   |
 | Jul 05th, 2019 | [Quasi-Popular Matchings, Optimality, and Extended Formulations](https://arxiv.org/pdf/1904.05974.pdf) by Yuri Faenza and Telikepalli Kavitha.                            | Kanstantsin Pashkovich |
 | Jul 12th, 2019 | [A (1 + 1/e)-Approximation Algorithm for Maximum Stable Matching with One-Sided Ties and Incomplete Lists](https://epubs.siam.org/doi/10.1137/1.9781611975482.175) by Chi-Kit Lam and Gregory Plaxton.                                                                                                                                                                                                                           | Madison Van Dyk   |
-| Jul 19th, 2019 |  _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
-| Jul 26th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
+| Jul 19th, 2019 |   [On Stable Matchings and Flows](https://link.springer.com/chapter/10.1007/978-3-642-16926-7_7) by Tamas Fleiner.                                                                                                                                                                                 | Sharat Ibrahimpur |
+| Jul 26th, 2019 | [New and Simple Algorithms for Stable Flow Problems](https://arxiv.org/pdf/1309.3701.pdf) by Agnes Cseh and Jannik Matuschke.                                                                                                                                                                     | Justin Toth       |
 | Aug 02nd, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
 | Aug 09th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
 
@@ -65,9 +65,9 @@ __Suggested Papers__
 
 11. **Claimed** [Better and Simpler Approximation Algorithms for the Stable Marriage Problem](https://link.springer.com/article/10.1007/s00453-009-9371-7) by Zoltan Kiraly.
 
-12. _*To be claimed*_ [On Stable Matchings and Flows](https://link.springer.com/chapter/10.1007/978-3-642-16926-7_7) by Tamas Fleiner.
+12. **Claimed** [On Stable Matchings and Flows](https://link.springer.com/chapter/10.1007/978-3-642-16926-7_7) by Tamas Fleiner.
 
-13. _*To be claimed*_ [New and Simple Algorithms for Stable Flow Problems](https://arxiv.org/pdf/1309.3701.pdf) by Agnes Cseh and Jannik Matuschke.
+13.**Claimed** [New and Simple Algorithms for Stable Flow Problems](https://arxiv.org/pdf/1309.3701.pdf) by Agnes Cseh and Jannik Matuschke.
 
 14. _*To be claimed*_ [Finding Stable Matchings that are Robust to Errors in the Input](https://arxiv.org/pdf/1804.00553.pdf) by Tung Mai and Vijay Vazirani.
 
