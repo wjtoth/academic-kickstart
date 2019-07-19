@@ -38,7 +38,7 @@ __Schedule__
 | Jul 12th, 2019 | [A (1 + 1/e)-Approximation Algorithm for Maximum Stable Matching with One-Sided Ties and Incomplete Lists](https://epubs.siam.org/doi/10.1137/1.9781611975482.175) by Chi-Kit Lam and Gregory Plaxton.                                                                                                                                                                                                                           | Madison Van Dyk   |
 | Jul 19th, 2019 |   [On Stable Matchings and Flows](https://link.springer.com/chapter/10.1007/978-3-642-16926-7_7) by Tamas Fleiner.                                                                                                                                                                                 | Sharat Ibrahimpur |
 | Jul 26th, 2019 | [New and Simple Algorithms for Stable Flow Problems](https://arxiv.org/pdf/1309.3701.pdf) by Agnes Cseh and Jannik Matuschke.                                                                                                                                                                     | Justin Toth       |
-| Aug 02nd, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
+| Aug 02nd, 2019 | [Stable Marriage with General Preferences](https://arxiv.org/pdf/1407.1853.pdf) by Linda Farczadi, Konstantinos Georgiou, and Jochen Koenemann.                                                                                                                                               | Matt Gerstbrein   |
 | Aug 09th, 2019 | _*Choose from list below, or suggest*_                                                                                                                                                                                                                                                             | _*To Be Claimed*_ |
 
 __Suggested Papers__
@@ -61,7 +61,7 @@ __Suggested Papers__
 
 9. _*To be claimed*_ [Three-sided stable matchings with cyclic preferences](http://dx.doi.org/10.1007/s00453-009-9315-2) by Peter Biro and Eric McDermid
 
-10. _*To be claimed*_ [Stable Marriage with General Preferences](https://arxiv.org/pdf/1407.1853.pdf) by Linda Farczadi, Konstantinos Georgiou, and Jochen Koenemann.
+10. **Claimed** [Stable Marriage with General Preferences](https://arxiv.org/pdf/1407.1853.pdf) by Linda Farczadi, Konstantinos Georgiou, and Jochen Koenemann.
 
 11. **Claimed** [Better and Simpler Approximation Algorithms for the Stable Marriage Problem](https://link.springer.com/article/10.1007/s00453-009-9371-7) by Zoltan Kiraly.
 
