@@ -16,6 +16,7 @@ linktitle = "Submodular Function Maximization"
 +++
 This term our reading group studies the broad topic of submodular function maximization, with a special focus on the emerging adaptive complexity model.
 
+If you are interested in presenting please fill out this [form](https://forms.gle/jnoRgfFixU1GbQ459).
 
 __Schedule__
 
