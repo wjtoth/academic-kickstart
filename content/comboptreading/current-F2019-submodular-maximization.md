@@ -47,15 +47,18 @@ __Suggested Papers__
 
 10. _*To be claimed*_ [Constrained Submodular Maximization: Beyond 1/e](https://arxiv.org/abs/1608.03611) by Ene and Nguyen.
 
-11. _*To be claimed*_ [The Adaptive Complexity of Maximizing a Submodular Function](https://scholar.harvard.edu/files/ericbalkanski/files/the-adaptive-complexity-of-maximizing-a-submodular-function.pdf) by Balkanski and Singer.
+11. _*To be claimed*_ [A Tight Linear Time (1/2)-Approximation For
+Unconstrained Submodular Maximization](https://www.openu.ac.il/personal_sites/moran-feldman/publications/SICOMP2015.pdf) by Buchbinder, Feldman, Naor, Schwartz.
 
-12. _*To be claimed*_ [Unconstrained Submodular Maximization with Constant Adaptive Complexity](https://arxiv.org/abs/1811.06603) by Chen, Lin, Feldman, and Karbasi.
+12. _*To be claimed*_ [The Adaptive Complexity of Maximizing a Submodular Function](https://scholar.harvard.edu/files/ericbalkanski/files/the-adaptive-complexity-of-maximizing-a-submodular-function.pdf) by Balkanski and Singer.
 
-13. _*To be claimed*_ [Parallelizing Greedy for Submodular Set Function Maximization in Matroids and Beyond](https://arxiv.org/abs/1811.12568) by Chekuri and Quanrud.
+13. _*To be claimed*_ [Unconstrained Submodular Maximization with Constant Adaptive Complexity](https://arxiv.org/abs/1811.06603) by Chen, Lin, Feldman, and Karbasi.
 
-14. _*To be claimed*_ [Submodular Maximization with Matroid and Packing Constraints in Parallel](https://arxiv.org/pdf/1804.00553.pdf) by Ene, Nguyen, and Vladu.
+14. _*To be claimed*_ [Parallelizing Greedy for Submodular Set Function Maximization in Matroids and Beyond](https://arxiv.org/abs/1811.12568) by Chekuri and Quanrud.
 
-15. _*To be claimed*_ [An Optimal Approximation for Submodular Maximization Under a Matroid Constraint in the Adaptive Complexity Model](https://arxiv.org/abs/1811.03093) by Balkanski, Rubinstein, and Singer.
+15. _*To be claimed*_ [Submodular Maximization with Matroid and Packing Constraints in Parallel](https://arxiv.org/pdf/1804.00553.pdf) by Ene, Nguyen, and Vladu.
 
-16. _*To be claimed*_ [Non-Monotone Submodular Maximization in Exponentially Fewer Iterations](https://arxiv.org/abs/1807.11462) by Balkanski, Breuer, and Singer.
+16. _*To be claimed*_ [An Optimal Approximation for Submodular Maximization Under a Matroid Constraint in the Adaptive Complexity Model](https://arxiv.org/abs/1811.03093) by Balkanski, Rubinstein, and Singer.
+
+17. _*To be claimed*_ [Non-Monotone Submodular Maximization in Exponentially Fewer Iterations](https://arxiv.org/abs/1807.11462) by Balkanski, Breuer, and Singer.
 
