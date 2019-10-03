@@ -14,7 +14,7 @@ linktitle = "Submodular Function Maximization"
   parent = "Current Topic"
   weight = 1
 +++
-This term our reading group studies the broad topic of submodular function maximization, with a special focus on the emerging adaptive complexity model.
+This term our reaGreedy Heuristic for Maximizing Submodular Set Functionsding group studies the broad topic of submodular function maximization, with a special focus on the emerging adaptive complexity model.
 
 If you are interested in presenting please fill out this [form](https://forms.gle/jnoRgfFixU1GbQ459).
 
@@ -23,15 +23,16 @@ __Schedule__
 | Date           | Topic                                                                                                                                                                                                                                                                                              | Presenter         |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 | Sept 27, 2019 | Overview Talk                                                                                                                                                                                                                                          | Chaitanya Swamy  | 
-| tbd | Following Talks                                                                                                                                                                                                                                                  | tbd              | 
+| Oct 04, 2019  | [An Analysis of Approximations for Maximizing Submodular Set Functions](http://www.cs.toronto.edu/~eidan/papers/submod-max.pdf) by Fisher, Nemhauser and Wolsey                                                                                                                                                                                                                                                  | Ishan Bansal  |
+| Oct 11, 2019  | Maximizing a Monotone Submodular Function Subject to a Matroid Constraint](https://theory.stanford.edu/~jvondrak/data/submod-matroid.pdf) by Calinescu, Gruia, Chekuri, Pál, and Vondrák                                               | Justin Toth   |
 
 __Suggested Papers__
 
-1. _*To be claimed*_ [Submodular Function Maximization (Survey)](https://las.inf.ethz.ch/files/krause12survey.pdf) by Krause and Golovin.
+1. **Claimed** [Submodular Function Maximization (Survey)](https://las.inf.ethz.ch/files/krause12survey.pdf) by Krause and Golovin.
 
-2. _*To be claimed*_ [An Analysis of Approximations for Maximizing Submodular Set Functions](http://www.cs.toronto.edu/~eidan/papers/submod-max.pdf) by Fisher, Nemhauser and Wolsey.
+2. **Claimed** [An Analysis of Approximations for Maximizing Submodular Set Functions](http://www.cs.toronto.edu/~eidan/papers/submod-max.pdf) by Fisher, Nemhauser and Wolsey.
 
-3. _*To be claimed*_ [Maximizing a Monotone Submodular Function Subject to a Matroid Constraint](https://theory.stanford.edu/~jvondrak/data/submod-matroid.pdf) by Calinescu, Gruia, Chekuri, Pál, and Vondrák.
+3. **Claimed** [Maximizing a Monotone Submodular Function Subject to a Matroid Constraint](https://theory.stanford.edu/~jvondrak/data/submod-matroid.pdf) by Calinescu, Gruia, Chekuri, Pál, and Vondrák.
 
 4. _*To be claimed*_ [Maximizing Submodular Set Functions Subject to Multiple Linear Constraints](https://pdfs.semanticscholar.org/0d49/b061c4af74871926366caadb8841b1082c54.pdf) by Kulik, Ariel, Shachnai, and Tamir.
 
