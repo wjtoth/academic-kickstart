@@ -40,7 +40,7 @@ __Suggested Papers__
 
 6. _*To be claimed*_ [Maximizing Nonmonotone Submodular Functions Under Matroid or Knapsack Constraints](http://www.optimization-online.org/DB_FILE/2008/10/2125.pdf) by Lee, Mirrokni, Nagarajan, and Sviridenko.
 
-7. _*To be claimed*_ [Maximizing Non-Monotone Submodular Functions](https://arxiv.org/pdf/1904.05974.pdf) by Feige, Uriel, Mirrokni, and Vondrák.
+7. _*To be claimed*_ [Maximizing Non-Monotone Submodular Functions](https://people.csail.mit.edu/mirrokni/focs07.pdf) by Feige, Uriel, Mirrokni, and Vondrák.
 
 8. _*To be claimed*_ [Submodular Function Maximization via the Multilinear Relaxation and Contention Resolution Schemes](https://arxiv.org/abs/1105.4593) by Vondrák, Chekuri, and Zenklusen.
 
