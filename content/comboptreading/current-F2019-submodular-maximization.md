@@ -26,7 +26,7 @@ __Schedule__
 | Oct 04, 2019  | [An Analysis of Approximations for Maximizing Submodular Set Functions](http://www.cs.toronto.edu/~eidan/papers/submod-max.pdf) by Fisher, Nemhauser and Wolsey                                                                                                                                                                                                                                                  | Ishan Bansal  |
 | Oct 11, 2019  | [Maximizing a Monotone Submodular Function Subject to a Matroid Constraint](https://theory.stanford.edu/~jvondrak/data/submod-matroid.pdf) by Calinescu, Gruia, Chekuri, Pál, and Vondrák                                               | Justin Toth   |
 | Oct 18, 2019  | No Talk. _*Reading Week*_                                                                            |              |
-| Oct 25, 2019  | No Talk Volunteered.                                                                                |              |
+| Oct 25, 2019  | Maximizing a Monotone Submodular Function Subject to k Matroid Constraints                                                                 | Akshay Ramachandran  |
 
 __Suggested Papers__
 
