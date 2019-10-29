@@ -27,7 +27,7 @@ __Schedule__
 | Oct 11, 2019  | [Maximizing a Monotone Submodular Function Subject to a Matroid Constraint](https://theory.stanford.edu/~jvondrak/data/submod-matroid.pdf) by Calinescu, Gruia, Chekuri, Pál, and Vondrák                                               | Justin Toth   |
 | Oct 18, 2019  | No Talk. _*Reading Week*_                                                                            |              |
 | Oct 25, 2019  | [Submodular Maximization over Multiple Matroids via Generalized Exchange Properties](https://theory.stanford.edu/~jvondrak/data/multiple-matroids-MOR.pdf) _*See also:*_ [this](http://www.optimization-online.org/DB_FILE/2008/10/2125.pdf)                                                                                           | Akshay Ramachandran  |
-| Nov 02, 2019  | [Maximizing Non-Monotone Submodular Functions](https://people.csail.mit.edu/mirrokni/focs07.pdf) by Feige, Uriel, Mirrokni, and Vondrák | Zishen Qu  |
+| Nov 01, 2019  | [Maximizing Non-Monotone Submodular Functions](https://people.csail.mit.edu/mirrokni/focs07.pdf) by Feige, Uriel, Mirrokni, and Vondrák | Zishen Qu  |
 
 __Suggested Papers__
 
