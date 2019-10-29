@@ -27,6 +27,7 @@ __Schedule__
 | Oct 11, 2019  | [Maximizing a Monotone Submodular Function Subject to a Matroid Constraint](https://theory.stanford.edu/~jvondrak/data/submod-matroid.pdf) by Calinescu, Gruia, Chekuri, Pál, and Vondrák                                               | Justin Toth   |
 | Oct 18, 2019  | No Talk. _*Reading Week*_                                                                            |              |
 | Oct 25, 2019  | [Submodular Maximization over Multiple Matroids via Generalized Exchange Properties](https://theory.stanford.edu/~jvondrak/data/multiple-matroids-MOR.pdf) _*See also:*_ [this](http://www.optimization-online.org/DB_FILE/2008/10/2125.pdf)                                                                                           | Akshay Ramachandran  |
+| Nov 02, 2019  | [Maximizing Non-Monotone Submodular Functions](https://people.csail.mit.edu/mirrokni/focs07.pdf) by Feige, Uriel, Mirrokni, and Vondrák | Zishen Qu  |
 
 __Suggested Papers__
 
@@ -42,7 +43,7 @@ __Suggested Papers__
 
 6. _*To be claimed*_ [Maximizing Nonmonotone Submodular Functions Under Matroid or Knapsack Constraints](http://www.optimization-online.org/DB_FILE/2008/10/2125.pdf) by Lee, Mirrokni, Nagarajan, and Sviridenko.
 
-7. _*To be claimed*_ [Maximizing Non-Monotone Submodular Functions](https://people.csail.mit.edu/mirrokni/focs07.pdf) by Feige, Uriel, Mirrokni, and Vondrák.
+7. **Claimed** [Maximizing Non-Monotone Submodular Functions](https://people.csail.mit.edu/mirrokni/focs07.pdf) by Feige, Uriel, Mirrokni, and Vondrák.
 
 8. _*To be claimed*_ [Submodular Function Maximization via the Multilinear Relaxation and Contention Resolution Schemes](https://arxiv.org/abs/1105.4593) by Vondrák, Chekuri, and Zenklusen.
 
