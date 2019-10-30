@@ -28,6 +28,8 @@ __Schedule__
 | Oct 18, 2019  | No Talk. _*Reading Week*_                                                                            |              |
 | Oct 25, 2019  | [Submodular Maximization over Multiple Matroids via Generalized Exchange Properties](https://theory.stanford.edu/~jvondrak/data/multiple-matroids-MOR.pdf) _*See also:*_ [this](http://www.optimization-online.org/DB_FILE/2008/10/2125.pdf)                                                                                           | Akshay Ramachandran  |
 | Nov 01, 2019  | [Maximizing Non-Monotone Submodular Functions](https://people.csail.mit.edu/mirrokni/focs07.pdf) by Feige, Uriel, Mirrokni, and Vondrák | Zishen Qu  |
+| Nov 08, 2019  | [Deterministic 0.5008-Approximation for Submodular Maximization over a Matroid
+(Buchbinder, Feldman, and Garg)](https://epubs.siam.org/doi/10.1137/1.9781611975482.16) by Buchbinder, Feldman, and Garg | Ben Moore |
 
 __Suggested Papers__
 
@@ -65,4 +67,9 @@ Unconstrained Submodular Maximization](https://www.openu.ac.il/personal_sites/mo
 16. _*To be claimed*_ [An Optimal Approximation for Submodular Maximization Under a Matroid Constraint in the Adaptive Complexity Model](https://arxiv.org/abs/1811.03093) by Balkanski, Rubinstein, and Singer.
 
 17. _*To be claimed*_ [Non-Monotone Submodular Maximization in Exponentially Fewer Iterations](https://arxiv.org/abs/1807.11462) by Balkanski, Breuer, and Singer.
+
+18. **Claimed** [Deterministic 0.5008-Approximation for Submodular Maximization over a Matroid
+(Buchbinder, Feldman, and Garg)](https://epubs.siam.org/doi/10.1137/1.9781611975482.16)
+
+19. **Claimed** [Submodular Maximization over Multiple Matroids via Generalized Exchange Properties](https://theory.stanford.edu/~jvondrak/data/multiple-matroids-MOR.pdf)
 
