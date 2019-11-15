@@ -30,6 +30,7 @@ __Schedule__
 | Nov 01, 2019  | [Maximizing Non-Monotone Submodular Functions](https://people.csail.mit.edu/mirrokni/focs07.pdf) by Feige, Mirrokni, and Vondrák | Zishen Qu  |
 | Nov 08, 2019  | No talk volunteered.  | NA |
 | Nov 15, 2019  | [Deterministic 0.5008-Approximation for Submodular Maximization over a Matroid](https://epubs.siam.org/doi/10.1137/1.9781611975482.16) by Buchbinder, Feldman, and Garg | Ben Moore |
+| Nov 22, 2019  | [Submodular Function Maximization via the Multilinear Relaxation and Contention Resolution Schemes](https://arxiv.org/abs/1105.4593) by Vondrák, Chekuri, and Zenklusen | Sharat Ibrahimpur |
 
 __Suggested Papers__
 
@@ -47,7 +48,7 @@ __Suggested Papers__
 
 7. **Claimed** [Maximizing Non-Monotone Submodular Functions](https://people.csail.mit.edu/mirrokni/focs07.pdf) by Feige, Uriel, Mirrokni, and Vondrák.
 
-8. _*To be claimed*_ [Submodular Function Maximization via the Multilinear Relaxation and Contention Resolution Schemes](https://arxiv.org/abs/1105.4593) by Vondrák, Chekuri, and Zenklusen.
+8. **Claimed** [Submodular Function Maximization via the Multilinear Relaxation and Contention Resolution Schemes](https://arxiv.org/abs/1105.4593) by Vondrák, Chekuri, and Zenklusen.
 
 9. _*To be claimed*_ [Symmetry and Approximability of Submodular Maximization Problems](https://arxiv.org/abs/1110.4860) by Vondrák
 
