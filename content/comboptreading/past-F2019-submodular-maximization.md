@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 linktitle = "Submodular Function Maximization"
 [menu.comboptreading]
   parent = "Past Topics"
-  weight = 1
+  weight = 9
 +++
 This term our reaGreedy Heuristic for Maximizing Submodular Set Functionsding group studies the broad topic of submodular function maximization, with a special focus on the emerging adaptive complexity model.
 
