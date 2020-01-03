@@ -1,5 +1,5 @@
 +++
-title = "Department Research Interests"
+title = "Research Interests"
 
 date = 2019-01-01T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -15,7 +15,7 @@ linktitle = "Research Interests"
   weight = 1
 +++
 
-This term our reading group does...
+This term our reading group will be exploring the various research interests of students and faculty working on problems related to combinatorial optimization. If you would like to present on your recent work or a paper you find interesting please let one of the organizers know. This is a great opportunity to learn what other people working in combinatorial optimization are studying and to encourage collaboration.
 
 __Schedule__
 
