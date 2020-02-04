@@ -26,4 +26,5 @@ __Schedule__
 | Jan 24, 2020 | On the Strong Nine Dragon Tree Conjecture                                                                                                                                                                                                                                                            | Ben Moore    |
 | Jan 31, 2020 | Network Design for s-t Effective Resistance                                                                   | Hong Zhou    |
 | Feb 07, 2020 | An Introduction to the Circuits of Polyhedra, the Circuit Diameter, and Their Applications                                                                                                                                                                                                          | Sean Kafer   |
+| Feb 14, 2020 | The Aggregation Closure is Polyhedral for Packing and Covering Integer Programs | Kanstantsin Pashkovich |
 
