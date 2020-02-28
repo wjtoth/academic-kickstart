@@ -27,4 +27,5 @@ __Schedule__
 | Jan 31, 2020 | Network Design for s-t Effective Resistance                                                                   | Hong Zhou    |
 | Feb 14, 2020 | The Aggregation Closure is Polyhedral for Packing and Covering Integer Programs | Kanstantsin Pashkovich |
 | Feb 28, 2020 | An Introduction to the Circuits of Polyhedra, the Circuit Diameter, and Their Applications                                                                                                                                                                                                          | Sean Kafer   |
+| Mar 06, 2020 | Recognizing Slack Matrices | Matt Gerstbrein |
 
