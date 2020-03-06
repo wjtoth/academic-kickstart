@@ -28,4 +28,4 @@ __Schedule__
 | Feb 14, 2020 | The Aggregation Closure is Polyhedral for Packing and Covering Integer Programs | Kanstantsin Pashkovich |
 | Feb 28, 2020 | An Introduction to the Circuits of Polyhedra, the Circuit Diameter, and Their Applications                                                                                                                                                                                                          | Sean Kafer   |
 | Mar 06, 2020 | Recognizing Slack Matrices | Matt Gerstbrein |
-
+| Mar 13, 2020 | Differentially Private Combinatorial Optimization | Harry Sivasubramaniam |
