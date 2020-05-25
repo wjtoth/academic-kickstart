@@ -15,17 +15,30 @@ linktitle = "Research Interests"
   weight = 1
 +++
 
+_After a brief hiatus to sort things out due to the COVID-19 pandemic, the CombOpt reading group is continuing its "Research Interests" series in Spring term 2020._
+
 This term our reading group will be exploring the various research interests of students and faculty working on problems related to combinatorial optimization. If you would like to present on your recent work or a paper you find interesting please let one of the organizers know. This is a great opportunity to learn what other people working in combinatorial optimization are studying and to encourage collaboration.
 
 __Schedule__
 
-| Date           | Topic                                                                                                                                                                                                                                                                                              | Presenter         |
-|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| Jan 10, 2020 | Beating 3/2 for Approximating TSP in the Half-Integral Case                                                                                                                                                                                                                                          | Logan Grout  |
-| Jan 17, 2020 | The Capacitated Survivable Network Design Problem                                                                                                                                                                                                                                                    | Ishan Bansal |
-| Jan 24, 2020 | On the Strong Nine Dragon Tree Conjecture                                                                                                                                                                                                                                                            | Ben Moore    |
-| Jan 31, 2020 | Network Design for s-t Effective Resistance                                                                   | Hong Zhou    |
-| Feb 14, 2020 | The Aggregation Closure is Polyhedral for Packing and Covering Integer Programs | Kanstantsin Pashkovich |
-| Feb 28, 2020 | An Introduction to the Circuits of Polyhedra, the Circuit Diameter, and Their Applications                                                                                                                                                                                                          | Sean Kafer   |
-| Mar 06, 2020 | Recognizing Slack Matrices | Matt Gerstbrein |
-| Mar 13, 2020 | Differentially Private Combinatorial Optimization | Harry Sivasubramaniam |
+Spring 2020 Active Schedule
+
+| Date | Topic | Presenter |
+| - | - | - |
+| May 29, 2020 | b-Matching Games: A Case Study in Computing the Nucleolus on Graphs of Bounded Treewidth | Justin Toth |
+| June 05, 2020 | _tba_ | Cedric Koh |
+| _tbd_ | Differentially Private Combinatorial Optimization                                          | Harry Sivasubramaniam  |
+
+
+
+Winter 2020 Talks 
+
+| Date         | Topic                                                                                      | Presenter              |
+| ------------ | ------------------------------------------------------------------------------------------ | ---------------------- |
+| Jan 10, 2020 | Beating 3/2 for Approximating TSP in the Half-Integral Case                                | Logan Grout            |
+| Jan 17, 2020 | The Capacitated Survivable Network Design Problem                                          | Ishan Bansal           |
+| Jan 24, 2020 | On the Strong Nine Dragon Tree Conjecture                                                  | Ben Moore              |
+| Jan 31, 2020 | Network Design for s-t Effective Resistance                                                | Hong Zhou              |
+| Feb 14, 2020 | The Aggregation Closure is Polyhedral for Packing and Covering Integer Programs            | Kanstantsin Pashkovich |
+| Feb 28, 2020 | An Introduction to the Circuits of Polyhedra, the Circuit Diameter, and Their Applications | Sean Kafer             |
+| Mar 06, 2020 | Recognizing Slack Matrices                                                                 | Matt Gerstbrein        |
