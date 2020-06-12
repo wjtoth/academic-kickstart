@@ -28,7 +28,7 @@ Spring 2020 Active Schedule
 | May 29, 2020  | b-Matching Games: A Case Study in Computing the Nucleolus on Graphs of Bounded Treewidth              | Justin Toth           |
 | June 05, 2020 | A Strongly Polynomial Label-Correcting Algorithm for Linear Systems with Two Variables per Inequality | Cedric Koh            |
 | June 12, 2020 | One Dollar Each Eliminates Envy                                                                       | Vishnu Narayan        |
-| June 18, 2020 | Graph coloring of graphs with large girth is hard for the Nullstellensatz                                                                                                 | Julian Romero         |
+| June 18, 2020 | _*Talk Occurs on Thursday at 1:30*_ Graph coloring of graphs with large girth is hard for the Nullstellensatz                                                                                                 | Julian Romero         |
 | _tbd_         | Differentially Private Combinatorial Optimization                                                     | Harry Sivasubramaniam |
 
 
