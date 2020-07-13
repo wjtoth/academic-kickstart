@@ -30,6 +30,7 @@ Spring 2020 Active Schedule
 | June 12, 2020 | One Dollar Each Eliminates Envy                                                                       | Vishnu Narayan        |
 | June 18, 2020 | _*Talk Occurs on Thursday at 1:30*_ Graph coloring of graphs with large girth is hard for the Nullstellensatz                                                                                                 | Julian Romero         |
 | July 10, 2020 | Reachability in arborescence packings                                                                 | Florian Hoersch       |
+| July 17, 2020 | Two unsolved problems: Birkhoff–von Neumann graphs and PM-compact graphs                              | Nishad Kothari.       |
 | _tbd_         | Differentially Private Combinatorial Optimization                                                     | Harry Sivasubramaniam |
 
 
