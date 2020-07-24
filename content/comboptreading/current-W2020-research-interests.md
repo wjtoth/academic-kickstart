@@ -21,7 +21,7 @@ This term our reading group will be exploring the various research interests of 
 
 __Schedule__
 
-Spring 2020 Active Schedule
+Spring 2020 Active Schedule. Playlist for previously given talks [here](https://www.youtube.com/playlist?list=PL8UC-bwQca_ioFzpmUjOW5atbdg-1VvCG).
 
 | Date          | Topic                                                                                                 | Presenter             |
 | ------------- | ----------------------------------------------------------------------------------------------------- | --------------------- |
