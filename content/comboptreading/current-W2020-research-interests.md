@@ -33,7 +33,6 @@ Spring 2020 Active Schedule. Playlist for previously recorded talks [here](https
 | July 17, 2020 | Two unsolved problems: Birkhoff–von Neumann graphs and PM-compact graphs                              | Nishad Kothari        |
 | July 24, 2020 | A 4/3-Approximation Algorithm for the Minimum 2-Edge Connected Multisubgraph Problem in the Half-Integral Case | Sharat Ibrahimpur |
 | July 31, 2020 | Weighted Maximum Multicommodity Flows over time                                                       | Haripriya Pulyassary  |
-| _tbd_         | Differentially Private Combinatorial Optimization                                                     | Harry Sivasubramaniam |
 
 
 
