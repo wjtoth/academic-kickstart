@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = "PhD in Combinatorial Optimization"
   institution = "University of Waterloo"
-  year = Apr 2021 (expected)
+  year = "Apr 2021 (expected)"
 
 [[education.courses]]
   course = "MMath in Combinatorics & Optimization"
   institution = "University of Waterloo"
-  year =  Dec 2016
+  year =  "Dec 2016"
 
 [[education.courses]]
   course = "BMath in Mathematics and Computer Science"
   institution = "University of Windsor"
-  year = Apr 2015
+  year = "Apr 2015"
  
 +++
 
