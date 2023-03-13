@@ -34,9 +34,11 @@ weight = 5
 +++
 
 # Biography
-I'm a PhD Student in Combinatorics and Optimization under the supervision of [Jochen Koenemann](http://www.math.uwaterloo.ca/~jochen/).
+I'm an owner and instructor at [Gentle Arts Dojo](gentlearts.ca) in Uptown Waterloo and software engineer at [Verily](https://verily.com).
 
-With [Sharat Ibrahimpur](https://uwaterloo.ca/combinatorics-and-optimization/about/people/s26ibrah) I organize the [Combinatorial Optimization Reading Group](https://www.wjtoth.com/comboptreading/) at the University of Waterloo.
+Previously I did my PhD in Combinatorics and Optimization under the supervision of [Jochen Koenemann](http://www.math.uwaterloo.ca/~jochen/).
+
+With [Sharat Ibrahimpur](https://uwaterloo.ca/combinatorics-and-optimization/about/people/s26ibrah) I organized the [Combinatorial Optimization Reading Group](https://www.wjtoth.com/comboptreading/) at the University of Waterloo.
 
 My current research interests are in problems arising at the intersection of combinatorial optimization and game theory. In the past I've worked on polyhedral descriptions of stable matching, and on efficient computation of solution concepts for combinatorial cooperative games.
 
